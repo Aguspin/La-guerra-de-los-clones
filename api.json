@@ -1,38 +1,38 @@
 [
     {
-      "precio": 500,
+      "precio": 2800,
       "id": 1,
-      "title": "Café",
-      "thumbnailUrl": "https://picsum.photos/id/0/600"
+      "title": "Nike Dunk Low Siempre Familia",
+      "thumbnailUrl": "https://sneakernews.com/wp-content/uploads/2021/10/Nike-Dunk-Low-DO2160-335.png"
     },
     {
-      "precio": 300,
+      "precio": 3000,
       "id": 2,
-      "title": "Pizza",
-      "thumbnailUrl": "https://picsum.photos/id/10/600"
+      "title": "Air Force 1 UV",
+      "thumbnailUrl": "https://media.revistagq.com/photos/618d4f80bee6523ec78b57c5/16:9/w_1280,c_limit/nike%20air%20force%201%20color.jpeg"
     },
     {
-      "precio": 100,
+      "precio": 2500,
       "id": 3,
-      "title": "Agua",
-      "thumbnailUrl": "https://picsum.photos/id/20/600"
+      "title": "Air Force 1 Low Space Jam",
+      "thumbnailUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/4CEHPNCRBNDVZMIQQ42QUELFSE.jpg"
     },
     {
-      "precio": 50,
+      "precio": 5000,
       "id": 4,
-      "title": "Sandía",
-      "thumbnailUrl": "https://picsum.photos/id/30/600"
+      "title": "Skeleton Air Force 1",
+      "thumbnailUrl": "https://5.imimg.com/data5/UI/DX/FW/ANDROID-34388014/product-jpeg-500x500.jpg"
     },
     {
-      "precio": 10,
+      "precio": 7500,
       "id": 5,
-      "title": "Mango",
-      "thumbnailUrl": "https://picsum.photos/id/40/600"
+      "title": "Travis Scott x Air Force 1 'Cactus Jack' ",
+      "thumbnailUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F11%2Ftravis-scott-nike-air-force-1-cactus-jack-custom-box-000.jpg?w=960&cbr=1&q=90&fit=max" 
     },
     {
-      "precio": 150,
+      "precio": 3500,
       "id": 6,
-      "title": "Chela",
-      "thumbnailUrl": "https://picsum.photos/id/50/600"
+      "title": "Air Force 1 Low GS NBA 75th Anniversary",
+      "thumbnailUrl": "https://sneakernews.com/wp-content/uploads/2021/09/nba-nike-air-force-1-low-black-chile-red-grey-fog-sail-dc8874-001-3.jpg"
     }
   ]
